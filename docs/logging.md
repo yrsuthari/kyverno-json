@@ -56,4 +56,11 @@ Example:
 
 ## Integration with Other Systems
 
-Since the logs are output in a structured format, they can be easily integrated with log management systems like ELK, Loki, or CloudWatch. 
+Since the logs are output in a structured format, they can be easily integrated with log management systems like ELK, Loki, or CloudWatch.
+
+## Future Improvements
+
+In the future, we could enhance the logging system to include:
+- Additional output formats
+- Log file destination configuration
+- More granular log level control per component 
